@@ -6,5 +6,5 @@
 
 4. W02.01 - https://colab.research.google.com/drive/1KAOMRrRpS_76mXTNDqIdMNrGnq2G_0sf?usp=sharing 
 5. W02.02 - https://colab.research.google.com/drive/1SH-szyVvXQ57Bxope6I1blr24seC7B7o?usp=sharing 
-6. 
+6. W02.03 - https://colab.research.google.com/drive/1IcUAA8K1coFs_AmB8e8HZelqWYHl19Mn?usp=sharing 
 
