@@ -11,7 +11,9 @@
 
 7. w03.01 - https://colab.research.google.com/drive/1Cym75QCwJGX0hfKF8hCkJ3y69bs3qh4r?usp=sharing  
 8. w03.02 - https://colab.research.google.com/drive/1zQcym5awaPEZXEXT-HHdH4zAMD4odXv_?usp=sharing 
-9. 
+9. w03.03 - https://colab.research.google.com/drive/1oHSVXB1C3Qad0nYO_eEVFxZCizqV_7uc?usp=sharing  
+
+10. 
 
 
 
